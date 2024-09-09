@@ -1,0 +1,35 @@
+{
+    "short_name": "PixelArt",
+    "name": "Pixel Art App",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "/screenshots/screenshot-wide.png",
+        "type": "image/png",
+        "sizes": "1280x720",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/screenshots/screenshot-regular.png",
+        "type": "image/png",
+        "sizes": "1080x1920",
+        "form_factor": "regular"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4fd1c5"
+  }
+  
